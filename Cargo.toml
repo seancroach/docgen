@@ -1,0 +1,14 @@
+[package]
+name = "docgen"
+version = "0.1.0"
+authors = ["Sean C. Roach <me@seancroach.dev>"]
+edition = "2018"
+
+description = "Rust library made for dynamically documenting Rust items created by a macro."
+repository = "https://github.com/seancroach/docgen"
+license = "MIT"
+
+categories = ["rust-patterns"]
+
+[lib]
+name = "doc"
