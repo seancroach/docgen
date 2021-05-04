@@ -2,12 +2,12 @@
 
 [Build Status]: https://img.shields.io/github/workflow/status/seancroach/docgen/CI?logo=github
 [actions]: https://github.com/seancroach/docgen/actions/workflows/ci.yml
-[Latest Version]: https://img.shields.io/crates/v/docgen128?logo=rust
-[crates.io]: https://crates.io/crates/docgen128
+[Latest Version]: https://img.shields.io/crates/v/docgen?logo=rust
+[crates.io]: https://crates.io/crates/docgen
 
 *Rust library made for dynamically documenting Rust items created by a macro.* View the documentation on `docs.rs` [here][docs].
 
-[docs]: https://docs.rs/docgen128
+[docs]: https://docs.rs/docgen
 
 ## License
 
