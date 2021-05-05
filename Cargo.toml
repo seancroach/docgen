@@ -1,6 +1,6 @@
 [package]
 name = "docgen"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Sean C. Roach <me@seancroach.dev>"]
 edition = "2018"
 
