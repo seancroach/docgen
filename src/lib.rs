@@ -32,7 +32,7 @@
 //! # fn main() {}
 //! ```
 //!
-//! This is particularly useful when documenting
+//! This is particularly useful when documenting items created by macros:
 //!
 //! ```
 //! #[macro_use]
