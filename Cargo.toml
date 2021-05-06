@@ -9,6 +9,3 @@ repository = "https://github.com/seancroach/docgen"
 license = "MIT"
 
 categories = ["rust-patterns"]
-
-[lib]
-name = "doc"
