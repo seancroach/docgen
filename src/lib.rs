@@ -5,7 +5,7 @@
 //!
 //! ```
 //! #[macro_use]
-//! extern crate doc;
+//! extern crate docgen;
 //!
 //! doc!(
 //!     "Here is some documentation!"
@@ -21,7 +21,7 @@
 //!
 //! ```
 //! #[macro_use]
-//! extern crate doc;
+//! extern crate docgen;
 //!
 //! doc!(
 //!     "Here is some documentation!",
@@ -36,7 +36,7 @@
 //!
 //! ```
 //! #[macro_use]
-//! extern crate doc;
+//! extern crate docgen;
 //!
 //! macro_rules! add_fn {
 //!     ($name:ident, $ty:ty) => {
@@ -60,7 +60,7 @@
 ///
 /// ```
 /// #[macro_use]
-/// extern crate doc;
+/// extern crate docgen;
 ///
 /// doc!(
 ///     "Here is the documentation!"
